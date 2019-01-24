@@ -10,7 +10,7 @@
 
 
 
-[Zero-Knowledge Architecture](https://preview.talks.m4dz.net/zka/fr/#/) - m4dz ([@m4d_z](https://twitter.com/m4dz))
+[Zero-Knowledge Architecture](https://preview.talks.m4dz.net/zka/fr/#/) - m4dz ([@m4d_z](https://twitter.com/m4d_z))
 
 
 [DevSecOps ou comment faire aimer la sécurité aux Devs (-IoT) ?](https://speakerdeck.com/alexisduque/devsecops-ou-comment-faire-aimer-la-securite-aux-devs-iot) - Alexis Duque ([@alexis0duque](https://twitter.com/alexis0duque))
