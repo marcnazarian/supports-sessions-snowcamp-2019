@@ -2,6 +2,8 @@
 Supports et slides des sessions présentées à la conférence SnowCamp 2019
 
 
+![Logo SnowCamp](https://github.com/marcnazarian/supports-sessions-snowcamp-2018/blob/master/alpes-snow-full-illustration-orig.png)
+
 
 [Fast and Beautiful: Modern Image Delivery Techniques](https://www.slideshare.net/dougsillars/snowcamp-fastandbeautiful) - Doug Sillars [@dougsillars](https://twitter.com/dougsillars)
 
