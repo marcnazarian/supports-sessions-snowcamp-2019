@@ -1,5 +1,4 @@
-# supports-sessions-snowcamp-2019
-Supports et slides des sessions présentées à la conférence SnowCamp 2019
+# Supports et slides des sessions présentées à la conférence SnowCamp 2019
 
 
 ![Logo SnowCamp](https://github.com/marcnazarian/supports-sessions-snowcamp-2018/blob/master/alpes-snow-full-illustration-orig.png)
