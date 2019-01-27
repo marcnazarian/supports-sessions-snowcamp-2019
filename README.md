@@ -26,6 +26,9 @@
 [Zero-Knowledge Architecture](https://preview.talks.m4dz.net/zka/fr/#/) - m4dz ([@m4d_z](https://twitter.com/m4d_z))
 
 
+[Clojure en production: ça donne quoi ?](https://mcorbin.fr/pdf/slides/clojure_snowcamp.pdf) - Mathieu Corbin ([@_mcorbin](https://twitter.com/_mcorbin))
+
+
 [DevSecOps ou comment faire aimer la sécurité aux Devs (-IoT) ?](https://speakerdeck.com/alexisduque/devsecops-ou-comment-faire-aimer-la-securite-aux-devs-iot) - Alexis Duque ([@alexis0duque](https://twitter.com/alexis0duque))
 
 
@@ -37,6 +40,9 @@
 
 
 [L'open-source à la rescousse de mes APIS: comment les sécuriser grâce à Gravitee.io et Keycloak](https://docs.google.com/presentation/d/1f8DqS_079pEkgE_xw9BkARrqYgrnpPe-oIGJBpmqXxw/present?pli=1&slide=id.p) - Brassely David ([@brasseld](https://twitter.com/brasseld)) et Guillaume Gillon ([@gui_gillon](https://twitter.com/gui_gillon))
+
+
+[Zero-downtime deployment with Kubernetes, Spring Boot and Flyway](https://t.co/Phf1T2DzWZ) - Nicolas Fränkel ([@nicolas_frankel](https://twitter.com/nicolas_frankel))
 
 
 [(Quick kata to) explain DIP from SOLID principles](https://github.com/mavomo/simplified-birthday-greeter) - Michelle Avomo ([@michelle_avomo](https://twitter.com/michelle_avomo))
@@ -62,7 +68,7 @@
 * https://repl.it/@EmmanuelLongeau/FunWithFunctions
 
 
-[Kiali pour mieux observer ses microservices](https://schd.ws/hosted_files/snowcamp2019/a6/Snowcamp%20Kiali.pdf) - Simon Pasquier
+[Kiali pour mieux observer ses microservices](https://schd.ws/hosted_files/snowcamp2019/a6/Snowcamp%20Kiali.pdf) - Simon Pasquier ([@SimonHiker](https://twitter.com/SimonHiker))
 
 
 [Architecture Decision Records : enfin une documentation qui vous ressemble !](https://docs.google.com/presentation/d/1U8N_BZQfqZAsrfu1XTVr_eT1j5fggZAhofwx2crLdsQ) - Olivier Revial ([@pommeDouze](https://twitter.com/pommeDouze))
