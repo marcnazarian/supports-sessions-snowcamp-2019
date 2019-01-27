@@ -6,6 +6,13 @@
 
 ## Journée du jeudi 24 janvier 2019 (Conférences)
 
+[Des microservices aux migroservices](http://bit.ly/MigroserviceSnowcamp) - Francois Teychene ([@fteychene](https://twitter.com/fteychene))
+
+
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Go(lang) soyez plus fort que le garbage collector grâce l'escape analysis](https://www.youtube.com/watch?v=GTIk8fcKQFQ) - Benjamin Coenen ([@BnJ25](https://twitter.com/BnJ25)) et François Samin ([@francoissamin](https://twitter.com/francoissamin))
+
+
+
 [Fast and Beautiful: Modern Image Delivery Techniques](https://www.slideshare.net/dougsillars/snowcamp-fastandbeautiful) - Doug Sillars ([@dougsillars](https://twitter.com/dougsillars))
 
 
