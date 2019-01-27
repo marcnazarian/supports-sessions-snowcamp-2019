@@ -58,7 +58,7 @@
 [Face à l'épidémie de d'obésiciel, il est temps de concevoir des services numérique plus responsables !](https://schd.ws/hosted_files/snowcamp2019/dd/2019-01-25-SnowCamp-ecodesign-v0.2.pdf) - Frédéric Bordage
 
 
-[Fun with functions](https://docs.google.com/presentation/d/18-7j1bRotRot-OdarL_yXPENto-ZCG45qL6Pt6qqIcA) - Emmanuel Longeau ([@elongeau](https://twitter.com/elongeau)
+[Fun with functions](https://docs.google.com/presentation/d/18-7j1bRotRot-OdarL_yXPENto-ZCG45qL6Pt6qqIcA) - Emmanuel Longeau ([@elongeau](https://twitter.com/elongeau))
 * https://repl.it/@EmmanuelLongeau/FunWithFunctions
 
 
