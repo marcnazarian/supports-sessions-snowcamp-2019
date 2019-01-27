@@ -4,6 +4,14 @@
 ![Logo SnowCamp](https://github.com/marcnazarian/supports-sessions-snowcamp-2018/blob/master/alpes-snow-full-illustration-orig.png)
 
 
+## Journée du mercredi 23 janvier 2019 (Universités)
+
+[Kubernetes 101](https://training.codeforcloud.tech) - Laurent Grangeau ([@laurentgrangeau](https://twitter.com/laurentgrangeau)) et Piot Ludovic ([@lpiot](https://twitter.com/lpiot))
+
+
+[Service mesh patterns](https://schd.ws/hosted_files/snowcamp2019/01/service-mesh-patterns.pptx) - Peter Jausovec ([@pjausovec](https://twitter.com/pjausovec)) et Sherwood Zern
+
+
 ## Journée du jeudi 24 janvier 2019 (Conférences)
 
 [Des microservices aux migroservices](http://bit.ly/MigroserviceSnowcamp) - Francois Teychene ([@fteychene](https://twitter.com/fteychene))
@@ -48,5 +56,21 @@
 
 
 [Face à l'épidémie de d'obésiciel, il est temps de concevoir des services numérique plus responsables !](https://schd.ws/hosted_files/snowcamp2019/dd/2019-01-25-SnowCamp-ecodesign-v0.2.pdf) - Frédéric Bordage
+
+
+[Fun with functions](https://docs.google.com/presentation/d/18-7j1bRotRot-OdarL_yXPENto-ZCG45qL6Pt6qqIcA) - Emmanuel Longeau ([@elongeau](https://twitter.com/elongeau)
+* https://repl.it/@EmmanuelLongeau/FunWithFunctions
+
+
+[Kiali pour mieux observer ses microservices](https://schd.ws/hosted_files/snowcamp2019/a6/Snowcamp%20Kiali.pdf) - Simon Pasquier
+
+
+[Architecture Decision Records : enfin une documentation qui vous ressemble !](https://docs.google.com/presentation/d/1U8N_BZQfqZAsrfu1XTVr_eT1j5fggZAhofwx2crLdsQ) - Olivier Revial ([@pommeDouze](https://twitter.com/pommeDouze))
+
+
+[An Introduction to WebAssembly](https://github.com/guyroyse/intro-to-webassembly) - Guy Royse ([@guyroyse](https://twitter.com/guyroyse))
+
+
+[Blockchain at heart: how it works outside of the cryptocurrency trend?](https://talks.m4dz.net/blockchain-at-heart/fr/) - m4dz ([@m4d_z](https://twitter.com/m4d_z))
 
 
