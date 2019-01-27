@@ -74,3 +74,6 @@
 [Blockchain at heart: how it works outside of the cryptocurrency trend?](https://talks.m4dz.net/blockchain-at-heart/fr/) - m4dz ([@m4d_z](https://twitter.com/m4d_z))
 
 
+[Comment perdre sa surcharge featurale ?](https://docs.google.com/presentation/d/1ecjXZP5J6a1NdQHwda5yarGqeW4kojiEpWErcj60olA/preview?slide=id.g423af81012_0_96) - Estelle Landry ([@estelandry](https://twitter.com/estelandry))
+
+
