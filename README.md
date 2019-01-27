@@ -68,6 +68,9 @@
 * https://repl.it/@EmmanuelLongeau/FunWithFunctions
 
 
+[Vanilla JS 2018](https://t.co/gSGk6HuikA) - Matthieu Lux ([@Swiip](https://twitter.com/Swiip))
+
+
 [Kiali pour mieux observer ses microservices](https://schd.ws/hosted_files/snowcamp2019/a6/Snowcamp%20Kiali.pdf) - Simon Pasquier ([@SimonHiker](https://twitter.com/SimonHiker))
 
 
