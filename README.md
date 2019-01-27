@@ -22,6 +22,7 @@
 
 
 [Faites tourner les bouteilles en 3D, le ZeniBar passe à WebGL2](https://zenibar-webgl-snowcamp-2019.firebaseapp.com/presentation/bonsoir/index.html) - Gwennael BUCHET ([@GwennaelBuchet](https://twitter.com/GwennaelBuchet)) et Logan HAUSPIE ([@lhauspie](https://twitter.com/lhauspie))
+* https://github.com/GwennaelBuchet/zenibar_webgl/
 
 
 [Micro Frontends – a strive for fully verticalized systems](https://speakerdeck.com/duffleit/microfrontends-c587441e-d8e7-4883-9e14-c9dfaf8e36e3) - David Leitner ([@duffleit](https://twitter.com/duffleit))
@@ -40,5 +41,12 @@
 
 
 [La révolution dans vos apps, c'est la gestion de l'état!](https://speakerdeck.com/sinedied/the-revolution-in-your-apps-is-called-state-management) - Yohan Lasorsa ([@sinedied](https://twitter.com/sinedied))
+
+
+
+## Journée du vendredi 25 janvier 2019 (Conférences)
+
+
+[Face à l'épidémie de d'obésiciel, il est temps de concevoir des services numérique plus responsables !](https://schd.ws/hosted_files/snowcamp2019/dd/2019-01-25-SnowCamp-ecodesign-v0.2.pdf) - Frédéric Bordage
 
 
