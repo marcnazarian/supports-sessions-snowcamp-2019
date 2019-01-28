@@ -91,6 +91,9 @@
 [Blockchain at heart: how it works outside of the cryptocurrency trend?](https://talks.m4dz.net/blockchain-at-heart/fr/) - m4dz ([@m4d_z](https://twitter.com/m4d_z))
 
 
+[Retour d'expérience après un an de VueJS en prod](https://t.co/nuyd9IglQU) - Jules Hablot et Mathieu Mure ([@MathieuMure](https://twitter.com/MathieuMure))
+
+
 [Istio, le meilleur ami de votre cluster K8S](https://t.co/NbbwEomJCD) - Kevin Davin ([@davinkevin](https://twitter.com/davinkevin))
 
 [Comment perdre sa surcharge featurale ?](https://docs.google.com/presentation/d/1ecjXZP5J6a1NdQHwda5yarGqeW4kojiEpWErcj60olA/preview?slide=id.g423af81012_0_96) - Estelle Landry ([@estelandry](https://twitter.com/estelandry))
