@@ -79,6 +79,7 @@
 
 
 [Kiali pour mieux observer ses microservices](https://schd.ws/hosted_files/snowcamp2019/a6/Snowcamp%20Kiali.pdf) - Simon Pasquier ([@SimonHiker](https://twitter.com/SimonHiker))
+* https://github.com/simonpasquier/snowcamp-io-kiali
 
 
 [Architecture Decision Records : enfin une documentation qui vous ressemble !](https://docs.google.com/presentation/d/1U8N_BZQfqZAsrfu1XTVr_eT1j5fggZAhofwx2crLdsQ) - Olivier Revial ([@pommeDouze](https://twitter.com/pommeDouze))
