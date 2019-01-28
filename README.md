@@ -12,6 +12,10 @@
 [Service mesh patterns](https://schd.ws/hosted_files/snowcamp2019/01/service-mesh-patterns.pptx) - Peter Jausovec ([@pjausovec](https://twitter.com/pjausovec)) et Sherwood Zern
 
 
+[Una-Gitlab, le TP à Roulette !](https://gitlab-workshop.gitlab.io/gitlab-workshop/gitlab-workshop/1.0.0/introduction.html) - Kevin Davin ([@davinkevin](https://twitter.com/davinkevin)) et Logan Weber
+
+
+
 ## Journée du jeudi 24 janvier 2019 (Conférences)
 
 [Des microservices aux migroservices](http://bit.ly/MigroserviceSnowcamp) - Francois Teychene ([@fteychene](https://twitter.com/fteychene))
@@ -52,6 +56,9 @@
 
 
 [Hashistack : orchestrer des applications Cloud Native avec simplicité](https://speakerdeck.com/eunomie/hashistack-orchestrer-des-applications-cloud-native-avec-simplicite) - Yves Brissaud ([@_crev_](https://twitter.com/_crev_))
+
+
+[Una-Gitlab](http://bit.ly/unagitlab) - Kevin Davin ([@davinkevin](https://twitter.com/davinkevin)) et Logan Weber
 
 
 [La révolution dans vos apps, c'est la gestion de l'état!](https://speakerdeck.com/sinedied/the-revolution-in-your-apps-is-called-state-management) - Yohan Lasorsa ([@sinedied](https://twitter.com/sinedied))
