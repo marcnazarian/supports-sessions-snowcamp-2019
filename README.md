@@ -43,6 +43,9 @@
 [Micro Frontends – a strive for fully verticalized systems](https://speakerdeck.com/duffleit/microfrontends-c587441e-d8e7-4883-9e14-c9dfaf8e36e3) - David Leitner ([@duffleit](https://twitter.com/duffleit))
 
 
+[Rust 101](https://t.co/bqzugrkKZB) - Alessio Coltellacci ([@lightplay8](https://twitter.com/lightplay8))
+
+
 [L'open-source à la rescousse de mes APIS: comment les sécuriser grâce à Gravitee.io et Keycloak](https://docs.google.com/presentation/d/1f8DqS_079pEkgE_xw9BkARrqYgrnpPe-oIGJBpmqXxw/present?pli=1&slide=id.p) - Brassely David ([@brasseld](https://twitter.com/brasseld)) et Guillaume Gillon ([@gui_gillon](https://twitter.com/gui_gillon))
 
 
