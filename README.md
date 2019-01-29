@@ -50,7 +50,7 @@
 
 
 [Zero-downtime deployment with Kubernetes, Spring Boot and Flyway](https://t.co/Phf1T2DzWZ) - Nicolas Fränkel ([@nicolas_frankel](https://twitter.com/nicolas_frankel))
-
+* https://github.com/exoscale-labs/zerodowntime
 
 [(Quick kata to) explain DIP from SOLID principles](https://github.com/mavomo/simplified-birthday-greeter) - Michelle Avomo ([@michelle_avomo](https://twitter.com/michelle_avomo))
 
