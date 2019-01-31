@@ -21,6 +21,9 @@
 [Des microservices aux migroservices](http://bit.ly/MigroserviceSnowcamp) - Francois Teychene ([@fteychene](https://twitter.com/fteychene))
 
 
+[Il ne faut pas vendre la peau de YARN parce qu'un Mesos vaut mieux que deux Kubernetes](https://schd.ws/hosted_files/snowcamp2019/35/1548839429392_YARN-Mesos-Kubernetes.pdf) - Pascal Gillet ([@pagillet](https://twitter.com/pagillet))
+
+
 ![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Go(lang) soyez plus fort que le garbage collector grâce l'escape analysis](https://www.youtube.com/watch?v=GTIk8fcKQFQ) - Benjamin Coenen ([@BnJ25](https://twitter.com/BnJ25)) et François Samin ([@francoissamin](https://twitter.com/francoissamin))
 
 
