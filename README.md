@@ -99,6 +99,10 @@
 [An Introduction to WebAssembly](https://github.com/guyroyse/intro-to-webassembly) - Guy Royse ([@guyroyse](https://twitter.com/guyroyse))
 
 
+[ Contrôler le partitionnement et le cache pour optimiser les performances dans Spark](https://schd.ws/hosted_files/snowcamp2019/fc/snowcampspark-190123144853.pdf) - Florian Fauvarque ([@notflorian](https://twitter.com/notflorian)) et 
+Christophe Préaud
+
+
 [Blockchain at heart: how it works outside of the cryptocurrency trend?](https://talks.m4dz.net/blockchain-at-heart/fr/) - m4dz ([@m4d_z](https://twitter.com/m4d_z))
 
 
