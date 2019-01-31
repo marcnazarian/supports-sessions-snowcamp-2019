@@ -15,6 +15,9 @@
 [Una-Gitlab, le TP à Roulette !](https://gitlab-workshop.gitlab.io/gitlab-workshop/gitlab-workshop/1.0.0/introduction.html) - Kevin Davin ([@davinkevin](https://twitter.com/davinkevin)) et Logan Weber
 
 
+[Hands-on lab : Redécouvrir l'Univers connu avec des dataset de la NASA](https://helloexoworld.github.io/hew-hands-on) - Emmanuel Feller ([@moyowi](https://twitter.com/moyowi)) et Horacio Gonzalez ([@LostInBrittany](https://twitter.com/LostInBrittany))
+ 
+
 
 ## Journée du jeudi 24 janvier 2019 (Conférences)
 
