@@ -46,6 +46,9 @@
 [Micro Frontends – a strive for fully verticalized systems](https://speakerdeck.com/duffleit/microfrontends-c587441e-d8e7-4883-9e14-c9dfaf8e36e3) - David Leitner ([@duffleit](https://twitter.com/duffleit))
 
 
+[Building smarter apps with Machine Learning, from magic to reality](https://schd.ws/hosted_files/snowcamp2019/8d/2019-01-24%20SnowCamp%20-%20Build%20smarter%20apps%20with%20Machine%20Learning%2C%20from%20magic%20to%20reality.pdf) - Laurent Picard ([@PicardParis](https://twitter.com/PicardParis))
+
+
 [Rust 101](https://t.co/bqzugrkKZB) - Alessio Coltellacci ([@lightplay8](https://twitter.com/lightplay8))
 
 
